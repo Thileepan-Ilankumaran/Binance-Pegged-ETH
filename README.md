@@ -8,4 +8,4 @@
 
 ### 3. Deployed to the BSC Testnet. Contract Address :- 0x925f1f061571ed17e34744e3e835c80c95214f20. 
 
-### 4. Intiated Verification process by providing required details in explorer.
+### 4. Verified by providing required details in explorer and created ABI and Bytecode.
